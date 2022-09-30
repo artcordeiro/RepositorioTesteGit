@@ -1,0 +1,7 @@
+Estrutura
+
+ Body - Área de Fora
+ Header - Área de Cabeçalho
+ Footer - Rodapé
+ Section - Meio central pra colocarmos a imagem
+ Dentro da section criando divs para colocarmos os conteúdos
